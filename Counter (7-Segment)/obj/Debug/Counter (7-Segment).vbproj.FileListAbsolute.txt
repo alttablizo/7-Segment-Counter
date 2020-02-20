@@ -1,0 +1,11 @@
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\bin\Debug\Counter (7-Segment).exe.config
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\bin\Debug\Counter (7-Segment).exe
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\bin\Debug\Counter (7-Segment).pdb
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\bin\Debug\Counter (7-Segment).xml
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter (7-Segment).vbprojAssemblyReference.cache
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter__7_Segment_.Form1.resources
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter__7_Segment_.Resources.resources
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter (7-Segment).vbproj.GenerateResource.cache
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter (7-Segment).exe
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter (7-Segment).xml
+C:\Users\Almira\source\repos\Counter (7-Segment)\Counter (7-Segment)\obj\Debug\Counter (7-Segment).pdb
